@@ -10,76 +10,76 @@ Dataset Sheet: This sheet includes the raw data necessary for analysis, containi
 Dashboards
 ### 1. Temporal Trends Dashboard
 #### KPIs:
-Total Crimes: The overall count of reported crimes.
-Average Monthly Crimes: The mean number of crimes reported each month.
-Average Weekly Crimes: The mean number of crimes reported each week.
-Average Daily Crimes: The mean number of crimes reported each day.
-Busiest Day: The day with the highest crime rate.
-Least Busy Day: The day with the lowest crime rate.
+Total Crimes: The overall count of reported crimes.<br>
+Average Monthly Crimes: The mean number of crimes reported each month.<br>
+Average Weekly Crimes: The mean number of crimes reported each week.<br>
+Average Daily Crimes: The mean number of crimes reported each day.<br>
+Busiest Day: The day with the highest crime rate.<br>
+Least Busy Day: The day with the lowest crime rate.<br>
 #### Column Charts:
-Monthly Crime Trend: Illustrates the monthly distribution of reported crimes.
-Weekly Crime Trend: Shows the weekly variations in reported crimes.
+Monthly Crime Trend: Illustrates the monthly distribution of reported crimes.<br>
+Weekly Crime Trend: Shows the weekly variations in reported crimes.<br>
 #### Doughnut Chart:
-Crime Rate Weekday vs. Weekend: Compares the crime rate on weekdays vs. weekends.
-Crime Rate in Different Time of Day: Depicts the crime rate distribution across different times of the day.
-Arrest Rate: Displays the percentage of reported crimes resulting in arrests.
+Crime Rate Weekday vs. Weekend: Compares the crime rate on weekdays vs. weekends.<br>
+Crime Rate in Different Time of Day: Depicts the crime rate distribution across different times of the day.<br>
+Arrest Rate: Displays the percentage of reported crimes resulting in arrests.<br>
 Filters:
-Crime Type
-Timeline (Date Range)
+Crime Type<br>
+Timeline (Date Range)<br>
 ### 2. Arrest Dashboard
 #### KPIs:
-Total Crimes: The overall count of reported crimes.
-Total Arrests: The total number of arrests made.
-Arrest Rate: The percentage of reported crimes resulting in arrests.
-Average Response Time: The mean time taken to respond to reported incidents.
-Domestic Crimes: The count of reported domestic-related crimes.
+Total Crimes: The overall count of reported crimes.<br>
+Total Arrests: The total number of arrests made.<br>
+Arrest Rate: The percentage of reported crimes resulting in arrests.<br>
+Average Response Time: The mean time taken to respond to reported incidents.<br>
+Domestic Crimes: The count of reported domestic-related crimes.<br>
 #### Doughnut Chart:
-Domestic Crimes vs. Others: Highlights the proportion of domestic-related crimes compared to others.
-Column Charts:
-Crimes Reported vs. Arrested: Compares the counts of reported crimes and arrests made.
-Domestic Crimes vs. Others: Illustrates the breakdown of domestic-related crimes compared to others.
+Domestic Crimes vs. Others: Highlights the proportion of domestic-related crimes compared to others.<br>
+#### Column Charts:
+Crimes Reported vs. Arrested: Compares the counts of reported crimes and arrests made.<br>
+Domestic Crimes vs. Others: Illustrates the breakdown of domestic-related crimes compared to others.<br>
 #### Filters:
 Timeline (Date Range)
 ### 3. Police Beat Dashboard
 #### KPIs:
-Total Crimes: The overall count of reported crimes.
-Arrests Made: The total number of arrests made.
-Arrest Rate: The percentage of reported crimes resulting in arrests.
-Average Response Time: The mean time taken to respond to reported incidents.
+Total Crimes: The overall count of reported crimes.<br>
+Arrests Made: The total number of arrests made.<br>
+Arrest Rate: The percentage of reported crimes resulting in arrests.<br>
+Average Response Time: The mean time taken to respond to reported incidents.<br>
 #### Combo Chart:
-Trend of Crime Rate, Arrests Made, Average Response Time, Percentage Arrests: A comprehensive trend analysis.
-Bar Graphs:
-Top 10 Busiest Beats: Identifies the police beats with the highest crime rates.
-Top 10 Least Busy Beats: Identifies the police beats with the lowest crime rates.
+Trend of Crime Rate, Arrests Made, Average Response Time, Percentage Arrests: A comprehensive trend analysis.<br>
+#### Bar Graphs:
+Top 10 Busiest Beats: Identifies the police beats with the highest crime rates.<br>
+Top 10 Least Busy Beats: Identifies the police beats with the lowest crime rates.<br>
 #### Filters:
-Location
-Crime Type
-Timeline (Date Range)
+Location<br>
+Crime Type<br>
+Timeline (Date Range)<br>
 #### Combo Box:
-Beat Selection: Allows users to select a specific police beat for detailed analysis.
+Beat Selection: Allows users to select a specific police beat for detailed analysis.<br>
 ### 4. Crime Type & Location Dashboard
 #### KPIs:
-Total Crimes: The overall count of reported crimes.
-Total Arrests: The total number of arrests made.
-Arrest Rate: The percentage of reported crimes resulting in arrests.
-Average Response Time: The mean time taken to respond to reported incidents.
-Domestic Crimes: The count of reported domestic-related crimes.
+Total Crimes: The overall count of reported crimes.<br>
+Total Arrests: The total number of arrests made.<br>
+Arrest Rate: The percentage of reported crimes resulting in arrests.<br>
+Average Response Time: The mean time taken to respond to reported incidents.<br>
+Domestic Crimes: The count of reported domestic-related crimes.<br>
 #### Combo Chart:
-Cases and Their Percentage Contribution Across Different Crime Types: Depicts the frequency and percentage contribution of different crime types.
-Cases and Their Percentage Contribution Across Different Locations: Illustrates the frequency and percentage contribution of different crime locations.
+Cases and Their Percentage Contribution Across Different Crime Types: Depicts the frequency and percentage contribution of different crime types.<br>
+Cases and Their Percentage Contribution Across Different Locations: Illustrates the frequency and percentage contribution of different crime locations.<br>
 #### Timeline Filter:
-Allows users to filter data based on a specific timeline.
+Allows users to filter data based on a specific timeline.<br>
 ### Heatmaps
 #### Time of Day Heatmap:
 
-Illustrates the time of day that receives the maximum number of crimes.
+Illustrates the time of day that receives the maximum number of crimes.<br>
 #### Crime Type Heatmap:
 
-Highlights the largest crime count within the months of the year 2022 for a particular crime type.
+Highlights the largest crime count within the months of the year 2022 for a particular crime type.<br>
 #### Monthly Crime Type Heatmap:
 
-Provides insights into the prevailing largest crime type within a particular month.
-Instructions for Users
+Provides insights into the prevailing largest crime type within a particular month.<br>
+### Instructions for Users<br>
 #### Data Sheet:
 Contains the raw dataset. Avoid making modifications to this sheet.
 #### Dashboards:
